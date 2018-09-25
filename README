@@ -1,0 +1,3 @@
+2018-09-25 
+django_test 参考教程http://www.liujiangblog.com/blog/36/
+完成了django项目的搭建与启动，可以在本机上运行服务，实现了对数据库的读写。
